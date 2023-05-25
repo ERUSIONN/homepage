@@ -1,8 +1,8 @@
 title: wu-kan # 站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
-  SYSU第6年<br/>
-  水野爱<br/>
-  田宫例四驱车<br/>
+  ERUSIONN<br/>
+  紫希<br/>
+  2023.05.26<br/>
   <a href="mailto:i@wu-kan.cn">
     <i class="fa-solid fa-envelope"></i>
   </a>
@@ -49,15 +49,15 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               enable: true
               img: https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320 # 头像的地址
             nav: # 导航部分的内容，你也可以自己增加文字、图标（来自fontawesome）和对应的链接
-              - title: '<i class="fa-solid fa-home fa-fw"></i> 首页'
+              - title: '<i class="fa-solid fa-home fa-fw"></i> home'
                 href: /
-              - title: '<i class="fa-solid fa-comment fa-fw"></i> 留言'
+              - title: '<i class="fa-solid fa-comment fa-fw"></i> コメント'
                 href: /comments/
-              - title: '<i class="fa-solid fa-archive fa-fw"></i> 归档'
+              - title: '<i class="fa-solid fa-archive fa-fw"></i> 形跡'
                 href: /archive/
-              - title: '<i class="fa-solid fa-tags fa-fw"></i> 标签'
+              - title: '<i class="fa-solid fa-tags fa-fw"></i> 実績'
                 href: /tags/
-              - title: '<i class="fa-solid fa-coffee fa-fw"></i> 打赏'
+              - title: '<i class="fa-solid fa-coffee fa-fw"></i> その他'
                 href: /merger/
             simple_jekyll_search: # 侧边栏的全站搜索
               enable: true
@@ -80,7 +80,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 </style>
                 <input
                   id="sidebar-search-input"
-                  placeholder="搜索博文"
+                  placeholder="記録"
                 />
                 <ol
                   id="sidebar-search-results-container"
@@ -179,7 +179,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                   </span>天
                   <span id="run_time_hour">
                     <i class="fa-solid fa-spinner fa-pulse"></i>
-                  </span>时
+                  </span>時
                   <span id="run_time_minute">
                     <i class="fa-solid fa-spinner fa-pulse"></i>
                   </span>分
@@ -223,13 +223,13 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                     <i class="fa-solid fa-eye fa-fw"></i>
                     <span id="busuanzi_value_page_pv">
                       <i class="fa-solid fa-spinner fa-pulse"></i>
-                    </span>次
+                    </span>回
                   </div>
                   <div>
                     <i class="fa-solid fa-paw fa-fw"></i>
                     <span id="busuanzi_value_site_pv">
                       <i class="fa-solid fa-spinner fa-pulse"></i>
-                    </span>枚
+                    </span>個
                   </div>
                   <div>
                     <i class="fa-solid fa-user-friends fa-fw"></i>
