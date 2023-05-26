@@ -1,9 +1,9 @@
-title: wu-kan # 站点标题
+title: ERUSIONN # 站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
   ERUSIONN<br/>
   紫希<br/>
   2023.05.26<br/>
-  <a href="mailto:i@wu-kan.cn">
+  <a href="">
     <i class="fa-solid fa-envelope"></i>
   </a>
   <a href="https://github.com/ERUSIONN">
@@ -67,7 +67,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                   #sidebar-search-input {
                     background: none;
                     border: none;
-                    color: White;
+                    color: Blue;
                     width: 100%;
                   }
                   #sidebar-search-results-container {
