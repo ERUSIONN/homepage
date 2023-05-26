@@ -36,5 +36,7 @@
 
 ## 準備中
 
+<!-- .slide vertical=true -->
+
 このサイトはJekyllを使って作られています。
 Powered by Jekyll.
