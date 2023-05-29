@@ -1,15 +1,16 @@
 # 備忘録 
 
-ここはERUSIONNの備忘録
+準備中です
 
 <!-- .slide -->
 
 ## 連絡先
 
-### SNS等
+
 [Twitter](https://twitter.com/ErusionnV)
 [instagram](https://www.instagram.com/erusionn/)
 [github](https://github.com/ERUSIONN)
+
 
 <!-- .slide -->
 
