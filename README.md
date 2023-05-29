@@ -8,8 +8,8 @@
 
 ### SNS等
 [Twitter](https://twitter.com/ErusionnV)
-
-
+[instagram](https://www.instagram.com/erusionn/)
+[github](https://github.com/ERUSIONN)
 
 <!-- .slide -->
 
