@@ -4,8 +4,10 @@
 
 <!-- .slide -->
 
-## 仮1
+## 連絡先
 
+### SNS等
+[Twitter](https://twitter.com/ErusionnV)
 
 
 
